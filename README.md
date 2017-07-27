@@ -3,7 +3,7 @@ Container to build DSC resources in puppet using puppetlabs-dsc module
 
 In order to build new DSC resources for Puppet one needs to use the puppetlabs-dsc module (https://github.com/puppetlabs/puppetlabs-dsc) and follow the build instructions (https://github.com/puppetlabs/puppetlabs-dsc/blob/master/README_BUILD.md). To do it, a linux machine is needed with ruby >= 2.3.1 and git >= 2.2.0.
 This is it!
-** Runs on Docker for Windows! **
+**Runs on Docker for Windows!**
 
 **Image based on Ubuntu 16.04**
 
