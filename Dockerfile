@@ -2,7 +2,7 @@ FROM ubuntu:16.04
 
 WORKDIR /root
 
-# Update packeges
+# Update packages
 RUN apt-get clean && apt-get update
 
 # Install locale to build DSC modules
